@@ -1,1 +1,4 @@
-Je suis le meilleur
+if(will = iam) {
+	this.suicide();
+}
+
